@@ -1,0 +1,25 @@
+# Core AI
+langchain
+ollama
+
+# Voice
+whisper
+pyttsx3
+sounddevice
+scipy
+numpy
+
+# Automation
+pyautogui
+keyboard
+psutil
+pywin32
+webbrowser
+selenium
+
+# Email
+python-dotenv
+
+# Optional
+beautifulsoup4
+requests
